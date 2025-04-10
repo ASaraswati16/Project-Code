@@ -1,5 +1,9 @@
 # Project-Code
-Code for a single layer anti reflection coating
-All the parameters are defined next to the variable written in the code
-The equations are used from the background theory
-If there is any additional information needed for this code, it is there in the methedology section. 
+First, there's the code for a single layer of anti-reflection coating.
+After that, the code for multi-layers. 
+Next, the code for a single phase shift is done.
+At last but not least, the code for multi-layers but with gain is uploaded.
+The parameters in each code are defined and the terminologies defined in  the single layer on as comments.
+After that, the code for the grating structure this dissertation aimed to mimic has been uploaded.
+The variable names have changed for this code, so the description is given again in comments next to the variables.
+Each code can be modified, with values as the user pleases to use.
